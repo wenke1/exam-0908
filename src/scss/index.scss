@@ -1,0 +1,86 @@
+@import "../scss/libs/common.scss";
+@import "../scss/libs/minxin.scss";
+.wrapper {
+    width: 100%;
+    height: 100%;
+    @include box_flex;
+    @include direction(column)
+}
+
+section {
+    @include flex;
+    overflow: hidden;
+    position: relative;
+    overflow-y: scroll;
+}
+
+.wrap {
+    width: 100%;
+    .list {
+        dl {
+            width: 100%;
+            padding: paTorem(10px);
+            @include box_flex;
+            dt {
+                @include flex(3);
+                img {
+                    width: 100%;
+                }
+            }
+            dd {
+                @include flex(7);
+                padding: pxTorem(10px);
+                @include box_flex;
+                @include direction(column);
+                @include justify(space-around);
+                h3 {
+                    font-size: pxTorem(18px);
+                }
+                p {
+                    color: #666;
+                    &:nth-of-type(2) {
+                        @include box_flex;
+                        @include align;
+                        span {
+                            em {
+                                font-size: pxTorem(16px);
+                                color: #09BEAD;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
+.topBtn {
+    position: fixed;
+    bottom: pxTorem(50px);
+    right: pxTorem(10px);
+    display: none;
+    span {
+        width: pxTorem(40px);
+        height: pxTorem(40px);
+        line-height: pxTorem(40px);
+        text-align: center;
+        background: #09BEAD;
+        display: block;
+        border-radius: 50%;
+        i.icon {
+            font-size: pxTorem(30px);
+            color: #fff;
+        }
+    }
+}
+
+footer {
+    width: 100%;
+    height: pxTorem(44px);
+    @include box_flex;
+    @include align;
+    @include justify(space-around);
+    i.icon {
+        font-size: pxTorem(24px);
+    }
+}
