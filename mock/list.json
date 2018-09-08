@@ -1,0 +1,85 @@
+[{
+        "url": "./img/list_1.jpg",
+        "name": "全聚德",
+        "address": "[东城区]精品烤鸭3-4人餐1份",
+        "newprice": 398,
+        "lodprice": 498,
+        "shop": 2594
+    },
+    {
+        "url": "./img/list_2.jpg",
+        "name": "奶茶嫁给粉",
+        "address": "[四店通用]单人套餐，提供免费WIFI",
+        "newprice": 25,
+        "lodprice": 32,
+        "shop": 25021
+    },
+    {
+        "url": "./img/list_3.jpg",
+        "name": "那年，约火锅。烤场",
+        "address": "[西四]任性超级自助套餐",
+        "newprice": 69,
+        "lodprice": 580,
+        "shop": 8603
+    }, {
+        "url": "./img/list_4.png",
+        "name": "掉香缘掉渣饼",
+        "address": "[西单]掉渣饼1份，提供免费WIFI",
+        "newprice": 6.9,
+        "lodprice": 10,
+        "shop": 16436
+    }, {
+        "url": "./img/list_1.jpg",
+        "name": "全聚德",
+        "address": "[东城区]精品烤鸭3-4人餐1份",
+        "newprice": 398,
+        "lodprice": 498,
+        "shop": 2594
+    },
+    {
+        "url": "./img/list_2.jpg",
+        "name": "奶茶嫁给粉",
+        "address": "[四店通用]单人套餐，提供免费WIFI",
+        "newprice": 25,
+        "lodprice": 32,
+        "shop": 25021
+    },
+    {
+        "url": "./img/list_3.jpg",
+        "name": "那年，约火锅。烤场",
+        "address": "[西四]任性超级自助套餐",
+        "newprice": 69,
+        "lodprice": 580,
+        "shop": 8603
+    }, {
+        "url": "./img/list_1.jpg",
+        "name": "全聚德",
+        "address": "[东城区]精品烤鸭3-4人餐1份",
+        "newprice": 398,
+        "lodprice": 498,
+        "shop": 2594
+    },
+    {
+        "url": "./img/list_2.jpg",
+        "name": "奶茶嫁给粉",
+        "address": "[四店通用]单人套餐，提供免费WIFI",
+        "newprice": 25,
+        "lodprice": 32,
+        "shop": 25021
+    },
+    {
+        "url": "./img/list_3.jpg",
+        "name": "那年，约火锅。烤场",
+        "address": "[西四]任性超级自助套餐",
+        "newprice": 69,
+        "lodprice": 580,
+        "shop": 8603
+    }, {
+        "url": "./img/list_4.png",
+        "name": "掉香缘掉渣饼",
+        "address": "[西单]掉渣饼1份，提供免费WIFI",
+        "newprice": 6.9,
+        "lodprice": 10,
+        "shop": 16436
+    }
+]
