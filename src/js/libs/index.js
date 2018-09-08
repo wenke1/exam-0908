@@ -14,7 +14,7 @@ define([
             $(".list").html(html)
             $("section").on("scroll", function() {
                 $(".topBtn").show();
-            })
+            });
         }
     });
 });
